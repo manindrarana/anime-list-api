@@ -33,8 +33,32 @@
     {
       "description": "A college student, Iori Kitahara, moves to a seaside town and joins a diving club filled with eccentric characters.",
       "title": "Grand Blue",
-      "image_url": "https://cdn.myanimelist.net/images/anime/1286/93521.jpg",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
       "genres": ["Comedy", "Slice of Life", "Seinen"]
+    },
+    {
+      "description": "In a world of magic, where hunters awaken tremendous power within themselves, one lowly hunter, Jinwoo, is on a path to become the world's strongest.",
+      "title": "Solo Leveling",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1502/125002.jpg",
+      "genres": ["Action", "Adventure", "Fantasy"]
+    },
+    {
+      "description": "Banished by his father, the crippled ronin Hyakkimaru travels the countryside with a young thief named Dororo, facing dangerous monsters.",
+      "title": "Dororo",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1026/96247.jpg",
+      "genres": ["Action", "Adventure", "Historical", "Supernatural"]
+    },
+   {
+      "description": "After being in a coma for 17 years, a man discovers that he has been transported to another world and returns to his normal life with magical powers.",
+      "title": "Isekai Ojisan",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1743/125204.jpg",
+      "genres": ["Comedy", "Fantasy"]
+    },
+    {
+      "description": "Denji is a teenage boy living in poverty, forced to kill Devils to repay his debt.  After an unexpected turn of events, he gains the powers of a Devil and becomes a Public Safety Devil Hunter.",
+      "title": "Chainsaw Man",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+      "genres": ["Action", "Comedy", "Horror", "Supernatural"]
     }
   ]
 }
