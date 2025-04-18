@@ -1,17 +1,14 @@
 [
   {
-    "studio": "8bit",
     "genres": ["Comedy", "Shoujo", "Slice of Life"],
     "description": "Chihiro is left homeless with supposedly no relatives after his mom died. As he worries about what to do next, his uncle shows up and plans to take care of him...Or is it the other way around?",
     "title": {
       "link": "http://myanimelist.net/anime/32175/Shounen_Maid",
       "text": "Shounen Maid"
     },
-    "start_date": "Apr 8, 2016, 01:58 (JST)",
     "image_url": "https://cdn.myanimelist.net/images/anime/5/79411.jpg"
   },
   {
-    "studio": "Wit Studio (S1-S3), MAPPA (S4)",
     "genres": ["Action", "Dark fantasy", "Post-apocalyptic"],
     "description": "In a world where humanity lives within enormous walled cities to protect themselves from gigantic humanoid Titans, a young boy named Eren Yeager vows to eradicate the Titans after witnessing his mother's gruesome death. He joins the Survey Corps, an elite military unit that fights against the Titans outside the walls.",
     "title": {
@@ -19,18 +16,15 @@
       "text": "Attack on Titan"
     },
     "image_url": "https://cdn.myanimelist.net/images/anime/1907/134102.jpg",
-    "start_date": "Apr 7, 2013, 02:05 (JST)"
   },
   {
-    "studio": "Toei Animation",
     "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Sci-Fi", "Shounen"],
     "description": "Five years after his victory over Piccolo Jr., Son Goku now lives a peaceful life with his wife Chi-Chi and their son Son Gohan. However, this tranquility is shattered by the arrival of a mysterious and powerful Saiyan named Raditz, who reveals himself to be Goku's older brother.",
     "title": {
       "link": "http://myanimelist.net/anime/813/Dragon_Ball_Z",
       "text": "Dragon Ball Z"
     },
-    "image_url": "https://cdn.myanimelist.net/images/anime/13/18075.jpg",
-    "start_date": "Apr 26, 1989"
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/18075.jpg"
   },
   {
     "studio": "ufotable",
@@ -40,11 +34,9 @@
       "link": "http://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
       "text": "Kimetsu no Yaiba"
     },
-    "image_url": "https://cdn.myanimelist.net/images/anime/1588/108571.jpg",
-    "start_date": "Apr 6, 2019"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1588/108571.jpg"
   },
   {
-    "studio": "MAPPA",
     "genres": [
       "Action",
       "Fantasy",
@@ -58,11 +50,9 @@
       "link": "https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV",
       "text": "Jujutsu Kaisen (TV)"
     },
-    "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
-    "start_date": "Oct 3, 2020"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
   },
   {
-    "studio": "Toei Animation",
     "genres": [
       "Action",
       "Adventure",
@@ -76,11 +66,9 @@
       "link": "http://myanimelist.net/anime/21/One_Piece",
       "text": "One Piece"
     },
-    "image_url": "https://cdn.myanimelist.net/images/anime/1460/110427.jpg",
-    "start_date": "Oct 20, 1999"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1460/110427.jpg"
   },
   {
-    "studio": "Pierrot",
     "genres": [
       "Action",
       "Adventure",
@@ -94,11 +82,9 @@
       "link": "http://myanimelist.net/anime/20/Naruto",
       "text": "Naruto"
     },
-    "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
-    "start_date": "Oct 3, 2002"
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/17405.jpg"
   },
   {
-    "studio": "MAPPA",
     "genres": [
       "Action",
       "Comedy",
@@ -113,29 +99,24 @@
       "link": "https://myanimelist.net/anime/44511/Chainsaw_Man",
       "text": "Chainsaw Man"
     },
-    "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
-    "start_date": "Oct 12, 2022"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
   },
   {
-    "studio": "Sunrise",
     "genres": ["Action", "Comedy", "Historical", "Parody", "Sci-Fi", "Shounen"],
     "description": "In an alternate Edo period Japan, where aliens known as Amanto have invaded and samurai have lost their status, Gintoki Sakata is an eccentric samurai who runs an odd-jobs business called Yorozuya. He lives with a teenage boy named Shinpachi Shimura and a young alien girl named Kagura.",
     "title": {
       "link": "http://myanimelist.net/anime/918/Gintama",
       "text": "Gintama"
     },
-    "image_url": "https://cdn.myanimelist.net/images/anime/1696/109498.jpg",
-    "start_date": "Apr 4, 2006"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1696/109498.jpg"
   },
   {
-    "studio": "Zero-G",
     "genres": ["Comedy", "Slice of Life", "Sports"],
     "description": "A new life begins for Kitahara Iori as he begins his college career near the ocean in Izu city, full of excitement for his new life. He will be moving into his Uncle's diving store \"Grand Blue.\" There he finds the beautiful ocean, beautiful women, and men that love diving and alcohol. Will Iori be able to live his dream college life?",
     "title": {
       "link": "https://myanimelist.net/anime/37105/Grand_Blue",
       "text": "Grand Blue"
     },
-    "image_url": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
-    "start_date": "Jul 14, 2018"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg"
   }
 ]
