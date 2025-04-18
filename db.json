@@ -59,6 +59,39 @@
       "title": "Chainsaw Man",
       "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
       "genres": ["Action", "Comedy", "Horror", "Supernatural"]
+    },
+    {
+      "description": "The misadventures of Doraemon, a robot cat from the 22nd century, who with his gadgets, is sent back in time to help make Nobita Nobi, a boy without much talent, a better person.",
+      "title": "Doraemon",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1106/109532.jpg",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "description": "In a post-apocalyptic world called Alcia, Hina Farrow is on a journey to find a Legendary Ace after her mother is dragged into the Abyss when her Count reaches zero. She meets Licht Bach, a mysterious masked swordsman.",
+      "title": "Plunderer",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1473/112042.jpg",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Romance",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "description": "In a future world where humanity is endangered by giant beasts, children pilot robots called Franxx. Hiro, a former prodigy pilot, meets Zero Two, a mysterious and elite pilot with a dangerous reputation, and their fates become intertwined.",
+      "title": "Darling in the FranXX",
+      "image_url": "https://cdn.myanimelist.net/images/anime/4/87613.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ]
     }
   ]
 }
