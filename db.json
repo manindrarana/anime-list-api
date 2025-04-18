@@ -2,21 +2,25 @@
   {
     "description": "In a world where humanity lives within enormous walled cities to protect themselves from Titans.",
     "title": "Attack on Titan",
-    "image_url": "https://cdn.myanimelist.net/images/anime/1907/134102.jpg"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1907/134102.jpg",
+    "genres": ["Action", "Dark Fantasy", "Post-Apocalyptic"]
   },
   {
     "description": "Five years after his victory over Piccolo Jr., Son Goku now lives a peaceful life.",
     "title": "Dragon Ball Z",
-    "image_url": "https://cdn.myanimelist.net/images/anime/13/18075.jpg"
+    "image_url": "https://cdn.myanimelist.net/images/anime/13/18075.jpg",
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Martial Arts"]
   },
   {
     "description": "In Taisho-era Japan, Tanjiro Kamado is a kind-hearted boy who sells charcoal for a living.",
     "title": "Kimetsu no Yaiba",
-    "image_url": "https://cdn.myanimelist.net/images/anime/1588/108571.jpg"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1588/108571.jpg",
+    "genres": ["Action", "Demons", "Historical", "Supernatural", "Shounen"]
   },
   {
     "description": "Yuji Itadori is a high school student with exceptional physical abilities.",
     "title": "Jujutsu Kaisen (TV)",
-    "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
+    "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+    "genres": ["Action", "Fantasy", "Supernatural", "Drama", "School"]
   }
 ]
