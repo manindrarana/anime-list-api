@@ -23,6 +23,18 @@
       "title": "Jujutsu Kaisen (TV)",
       "image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
       "genres": ["Action", "Fantasy", "Supernatural", "Drama", "School"]
+    },
+    {
+      "description": "Follows the adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger.",
+      "title": "One Piece",
+      "image_url": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+      "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Shounen"]
+    },
+    {
+      "description": "A college student, Iori Kitahara, moves to a seaside town and joins a diving club filled with eccentric characters.",
+      "title": "Grand Blue",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1286/93521.jpg",
+      "genres": ["Comedy", "Slice of Life", "Seinen"]
     }
   ]
 }
