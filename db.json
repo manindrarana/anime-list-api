@@ -48,14 +48,14 @@
       "image_url": "https://cdn.myanimelist.net/images/anime/1026/96247.jpg",
       "genres": ["Action", "Adventure", "Historical", "Supernatural"]
     },
-   {
+    {
       "description": "After being in a coma for 17 years, a man discovers that he has been transported to another world and returns to his normal life with magical powers.",
       "title": "Isekai Ojisan",
       "image_url": "https://cdn.myanimelist.net/images/anime/1743/125204.jpg",
       "genres": ["Comedy", "Fantasy"]
     },
     {
-      "description": "Denji is a teenage boy living in poverty, forced to kill Devils to repay his debt.  After an unexpected turn of events, he gains the powers of a Devil and becomes a Public Safety Devil Hunter.",
+      "description": "Denji is a teenage boy living in poverty, forced to kill Devils to repay his debt. After an unexpected turn of events, he gains the powers of a Devil and becomes a Public Safety Devil Hunter.",
       "title": "Chainsaw Man",
       "image_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
       "genres": ["Action", "Comedy", "Horror", "Supernatural"]
@@ -64,33 +64,97 @@
       "description": "The misadventures of Doraemon, a robot cat from the 22nd century, who with his gadgets, is sent back in time to help make Nobita Nobi, a boy without much talent, a better person.",
       "title": "Doraemon",
       "image_url": "https://cdn.myanimelist.net/images/anime/1106/109532.jpg",
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Family",
-        "Sci-Fi"
-      ]
+      "genres": ["Animation", "Comedy", "Family", "Sci-Fi"]
     },
     {
       "description": "In a post-apocalyptic world called Alcia, Hina Farrow is on a journey to find a Legendary Ace after her mother is dragged into the Abyss when her Count reaches zero. She meets Licht Bach, a mysterious masked swordsman.",
       "title": "Plunderer",
       "image_url": "https://cdn.myanimelist.net/images/anime/1473/112042.jpg",
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Romance",
-        "Sci-Fi"
-      ]
+      "genres": ["Action", "Fantasy", "Romance", "Sci-Fi"]
     },
     {
       "description": "In a future world where humanity is endangered by giant beasts, children pilot robots called Franxx. Hiro, a former prodigy pilot, meets Zero Two, a mysterious and elite pilot with a dangerous reputation, and their fates become intertwined.",
       "title": "Darling in the FranXX",
       "image_url": "https://cdn.myanimelist.net/images/anime/4/87613.jpg",
+      "genres": ["Action", "Drama", "Romance", "Sci-Fi"]
+    },
+    {
+      "description": "Yuji Itadori is a high school student with exceptional physical abilities and a kind heart. He becomes a Jujutsu Sorcerer to fight curses and protect humanity.",
+      "title": "Jujutsu Kaisen",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg",
+      "genres": ["Action", "Supernatural", "Fantasy", "Shounen"]
+    },
+    {
+      "description": "Follow the misadventures of a ragtag crew of bounty hunters traveling in their spaceship, the Bebop, as they hunt criminals and deal with their pasts.",
+      "title": "Cowboy Bebop",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg",
+      "genres": ["Action", "Adventure", "Drama", "Sci-Fi"]
+    },
+    {
+      "description": "Saitama, a hero who can defeat any opponent with a single punch, struggles to find an opponent who can challenge him.",
+      "title": "One Punch Man",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1792/138022.jpg",
+      "genres": ["Action", "Comedy", "Parody", "Super Power", "Supernatural"]
+    },
+    {
+      "description": "Cid Kagenou desires to be a mastermind who pulls the strings from the shadows. He accidentally builds a secret organization while pretending to be a nobody.",
+      "title": "The Eminence in Shadow",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1579/127954.jpg",
+      "genres": ["Action", "Comedy", "Fantasy"]
+    },
+    {
+      "description": "The eccentric samurai Gintoki Sakata and his friends take on odd jobs in a world where aliens have invaded feudal Japan.",
+      "title": "Gintama",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1579/127954.jpg",
+      "genres": ["Action", "Comedy", "Sci-Fi", "Shounen"]
+    },
+    {
+      "description": "Ichigo Kurosaki becomes a Soul Reaper to protect the living world from evil spirits and guide souls to the afterlife.",
+      "title": "Bleach",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/20349.jpg",
+      "genres": ["Action", "Adventure", "Supernatural", "Shounen"]
+    },
+    {
+      "description": "Makunouchi Ippo, a shy high school student, discovers his passion for boxing and begins his journey to become a champion.",
+      "title": "Hajime no Ippo",
+      "image_url": "https://cdn.myanimelist.net/images/anime/3/20349.jpg",
+      "genres": ["Action", "Comedy", "Drama", "Sports"]
+    },
+    {
+      "description": "Shigeo 'Mob' Kageyama is an average middle school boy with psychic powers. He struggles to keep his emotions in check to prevent his powers from going out of control.",
+      "title": "Mob Psycho 100",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1331/126582.jpg",
+      "genres": ["Action", "Comedy", "Supernatural"]
+    },
+    {
+      "description": "Tanjiro Kamado embarks on a journey as a Demon Slayer to protect humanity and his family.",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1588/108571.jpg",
+      "genres": ["Action", "Demons", "Historical", "Supernatural", "Shounen"]
+    },
+    {
+      "description": "Lelouch Lamperouge, a prince exiled from the Britannian Empire, gains the power of Geass and leads a rebellion against the empire.",
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1331/126582.jpg",
       "genres": [
         "Action",
         "Drama",
-        "Romance",
-        "Sci-Fi"
+        "Mecha",
+        "Military",
+        "Sci-Fi",
+        "Supernatural"
+      ]
+    },
+    {
+      "description": "Light Yagami, a high school student, discovers a notebook that allows him to kill anyone by writing their name in it. He uses it to create a utopia, but is pursued by a genius detective known as L.",
+      "title": "Death Note",
+      "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+      "genres": [
+        "Mystery",
+        "Police",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
       ]
     }
   ]
